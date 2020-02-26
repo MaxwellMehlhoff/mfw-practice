@@ -1,0 +1,28 @@
+body {
+    width: 100%;
+    height: 10000px;
+    background-image: linear-gradient(0deg, hsl(297,86%,59%),hsl(342,86%,59%),hsl(27,86%,59%),hsl(72,86%,59%),hsl(117,86%,59%),hsl(162,86%,59%),hsl(207,86%,59%),hsl(252,86%,59%));
+}
+
+li {
+    background-image: linear-gradient(90deg, hsl(260,59%,55%),hsl(311.429,59%,55%),hsl(2.857,59%,55%),hsl(54.286,59%,55%),hsl(105.714,59%,55%),hsl(157.143,59%,55%),hsl(208.571,59%,55%));
+    -webkit-background-clip: text;
+    font-size: 50px;
+    color: transparent;
+}
+
+.col-md-3 {
+    background-image: linear-gradient(90deg, hsl(260,59%,55%),hsl(311.429,59%,55%),hsl(2.857,59%,55%),hsl(54.286,59%,55%),hsl(105.714,59%,55%),hsl(157.143,59%,55%),hsl(208.571,59%,55%));
+    -webkit-background-clip: text;
+    font-size: 50px;
+    color: transparent;
+    margin-top: 9300px;
+}
+
+.col-md-9 {
+    background-image: linear-gradient(90deg, hsl(260,59%,55%),hsl(311.429,59%,55%),hsl(2.857,59%,55%),hsl(54.286,59%,55%),hsl(105.714,59%,55%),hsl(157.143,59%,55%),hsl(208.571,59%,55%));
+    -webkit-background-clip: text;
+    font-size: 50px;
+    color: transparent;
+    margin-top: 9300px;
+}
